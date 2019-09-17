@@ -1,0 +1,8 @@
+# Compiler output
+*.o
+*.so
+*.a
+
+# OS X finder files
+.DS_Store
+
