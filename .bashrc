@@ -6,4 +6,5 @@ if [ -f /etc/bashrc ]; then
 fi
 
 # User specific aliases and functions
-alias ls="ls -GH"
+alias ls='ls -GH'
+alias source_bash='source ~/.bashrc && source ~/.bash_profile'
