@@ -6,5 +6,5 @@ if [ -f ~/.bashrc ]; then
 fi
 
 # User specific environment and startup programs
-export PS1="[\w]$ "
+export PS1="\e[0;36m[\w]$\e[m "
 
